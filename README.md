@@ -1,11 +1,5 @@
 # 💫 About Me:
-Residente em Vila Velha - ES / Brasil;<br>
-Desenvolvedor backend com mais de 2 anos de experiência em Go e PostgreSQL;<br>
-Apaixonado por práticas eficientes, código limpo e soluções inovadoras;<br>
-Experiência com frameworks como Gin e Chi, além de aprofundamento no uso de AlpineJS para soluções front-end leves e dinâmicas;<br>
-Comprometido com o aprimoramento contínuo das habilidades em Docker, JWT, JSON, XML, RabbitMQ e HL7, visando soluções robustas e escaláveis;<br>
-Entusiasta em resolver problemas lógicos e enfrentar desafios complexos com criatividade e eficiência.
-
+Resident in Vila Velha - ES / Brazil;<br> Backend developer with over 2 years of experience in Go and PostgreSQL;<br> Focused on building efficient, high-performance solutions with an emphasis on clean code and agile practices;<br> Advanced experience with frameworks like Gin and Chi, as well as deepening knowledge in AlpineJS for dynamic and scalable front-end solutions;<br> Committed to continuous improvement in Docker, JWT, JSON, XML, RabbitMQ, and HL7, always aiming to enhance the architecture and scalability of solutions;<br> Passionate about solving complex problems and optimizing systems with creativity and efficiency.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mattheusrocha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mattheusrocha2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattheusrocha2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattheusrocha2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MattheusRocha8) 
@@ -16,9 +10,6 @@ Entusiasta em resolver problemas lógicos e enfrentar desafios complexos com cri
 ![](https://github-readme-stats.vercel.app/api?username=mattheusrocha2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mattheusrocha2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusrocha2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mattheusrocha2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mattheusrocha2&limit=5&theme=dark&combine_all_yearly_contributions=true)
