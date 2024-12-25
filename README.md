@@ -2,7 +2,7 @@
   Resident in Vila Velha - ES / Brazil;<br> 
   Backend developer with over 2 years of experience in Go and PostgreSQL;<br> 
   Focused on building efficient, high-performance solutions with an emphasis on clean code and agile practices;<br> 
-  Advanced experience with frameworks like Gin and Chi, as well as deepening knowledge in AlpineJS for dynamic and scalable front-end solutions;<br> 
+  Experience with frameworks like Gin and Chi, as well as deepening knowledge in AlpineJS for dynamic and scalable front-end solutions;<br> 
   Committed to continuous improvement in Docker, JWT, JSON, XML, RabbitMQ, and HL7, always aiming to enhance the architecture and scalability of solutions;<br> 
   Passionate about solving complex problems and optimizing systems with creativity and efficiency.
 
