@@ -23,4 +23,4 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mattheusrocha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mattheusrocha2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattheusrocha2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattheusrocha2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MattheusRocha8) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mattheusrocha2&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mattheusrocha2&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
